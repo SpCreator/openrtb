@@ -1,0 +1,12 @@
+{
+  "name": "openrtb",
+  "version": "1.0.0",
+  "description": "OpenRTB schema validator",
+  "main": "check.js",
+  "scripts": {},
+  "author": "Sergei Smoliak",
+  "license": "ISC",
+  "dependencies": {
+    "openrtb-schema-validator": "^0.1.9"
+  }
+}
