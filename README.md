@@ -1,5 +1,5 @@
 # openrtb
-OpenRTB valodator
+OpenRTB validator
 
 Start project: node validator.js
 
