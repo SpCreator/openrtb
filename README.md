@@ -1,5 +1,7 @@
 # openrtb
 OpenRTB validator
 
-Start project: node validator.js
+Start project
+1. npm install
+1. node validator.js
 
