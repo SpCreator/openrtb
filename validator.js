@@ -38,9 +38,3 @@ function prepareErrorDetails(error) {
 }
 
 validate();
-
-
-
-
-
-
